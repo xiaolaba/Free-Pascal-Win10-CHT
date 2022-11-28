@@ -1,5 +1,5 @@
-# Free-Pascal-Win10-CHT
-Free Pascal was no show in Win10, why and how to reslove
+# Free-Pascal-Win10-CHT-IDE-no-show
+Free Pascal was no show in Win 10, why and how to resolve
 
 something was odd,
 https://github.com/xiaolaba/Free-Pascal-UTF8-supported
